@@ -6,7 +6,7 @@ Instructions
 Download the File:
 
 Download the file country_wise_latest.csv from the Corona Virus Report Dataset.
-This file contains country-wise data on COVID-19, such as confirmed cases, deaths, recoveries, and more.
+This file contains country-wise data on COVID-19-https://www.kaggle.com/datasets/imdevskp/corona-virus-report, such as confirmed cases, deaths, recoveries, and more.
 Load the File:
 
 Open the file and read its contents line by line.
